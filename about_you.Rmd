@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: Lacei Brown
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer I attended Antelope Valley High and graduated in 2024. High School was an interesting time for me, and I learned a lot both academically and personally. I did cheer, football and basketball so I was very busy. Math class was easier for me than English because I enjoy solving and counting more than reading and writing. The subject I did the best in was math. I was naturally good at it, and I enjoyed leaning more about it each year.
   
 
      
@@ -32,7 +32,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer I prefer to be called Lacei. Thats the name im comfortable being called in an academic setting. Some of my friends call me lace, but in class, i would like to be called Lacei.     
   
    
  
@@ -43,7 +43,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer In life, I want tobe successful in anything I do. I hope to have a career that allows me to help others and keep learning. I think the subject that have interested me the most in college is math I just understand it with no problem.      
   
    
  
